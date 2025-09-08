@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nnaemeka Onochie</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **optimizing personal website**
+- 🔭 I’m currently working on **optimizing Claims Dashboard**
 
 - 🌱 I’m currently learning **Amazon SageMaker, Scikit-learn, TensorFlow, OpenAI**
 
